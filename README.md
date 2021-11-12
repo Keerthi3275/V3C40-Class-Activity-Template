@@ -1,1 +1,2 @@
-# V3C40-Class-Activity-Template
+# C40RV_SpeedRacer_TeacherActivity
+Teacher Activity
